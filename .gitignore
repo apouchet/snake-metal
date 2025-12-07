@@ -53,3 +53,14 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Metal build artifacts
+*.air
+*.metallib
+default.metallib
+
+# Snake Metal executable
+SnakeMetal
+
+# High scores data file
+high_scores.txt
